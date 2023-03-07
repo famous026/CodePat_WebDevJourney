@@ -1,0 +1,3 @@
+Here I post every html resource which I explored while learning HTML from 
+basic to advanced. This helps me to keep track of the files which I learn. 
+Copyright : CodePath.org
