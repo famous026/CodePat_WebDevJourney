@@ -1,0 +1,38 @@
+Using the BOX Model 
+
+pseudo-class : can be used to define a style for a specific state of an element 
+
+1. Creating CSS rules for the elemnts 
+2. Creating header
+      Box Model 
+      Class 
+      ID Selectors 
+      
+ 3. Applying CSS Rules for header
+ 4. USing the CSS Box Model to Adjust an Element's Content
+ 
+Some shorthand properties : 
+
+//margin 
+    margin-top
+    margin-bottom
+    margin-left
+    margin-right 
+    
+//padding
+    padding-top 
+    padding-bottom
+    padding-right 
+    padding-left
+    
+//border 
+    border-style 
+    border-width 
+    border-color 
+    
+Link for useful resources : 
+CSS Box Model :https://www.w3schools.com/css/css_boxmodel.asp
+CSS Borders : https://www.w3schools.com/css/css_border.asp
+HTMl div tag : https://www.w3schools.com/tags/tag_div.ASP
+CSS Margins : https://www.w3schools.com/css/css_margin.asp
+CSS Padding : https://www.w3schools.com/css/css_padding.asp
