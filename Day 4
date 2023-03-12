@@ -1,0 +1,41 @@
+//Flexbox and Pseudo-Selectors
+https://thefamousphotos.photo.blog/
+https://www.everest-times.com/2021/06/14/15414/
+https://www.nepalipatra.com/news/mental-health,-spiritually-and-covid-19/72459
+\\using justify-content and flex-direction for positioning 
+
+pseudo-class  : can be used to define a style for specific state of an element 
+
+\\flexbox 
+        : one dimensional layout method for arranging items in rows or columns
+        : items shrink, expand, wrap to fill space on a webpage
+        : containers instead of boxes
+ 
+ 
+ \\Adding flexbox to website
+        a. <div class ="my-flex-container"> 
+            <h1> My Header </h1>
+            <p> My Paragraph </p>
+            </div>
+            
+        everything within this div follow the flexbox rules 
+        
+        display : flex - what switches on Flexbox and will align things horizontally 
+        flex-direction : column - row lines the content up horizontally
+                                  column stacks the content vertically  
+                      
+        justify-content : center   determines how the content is aligned on the page. 
+                                   center aligns the entire container in the middle of the web page 
+        
+ 
+ 
+ -Creating the basis for flexbox in an HTMl file 
+ -Styling the box using the box model 
+ -Adding Pseudo-class selectors to change the box behavior 
+ 
+ 
+ 
+ Links for important resources:
+ Complete guide to Flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+ CSS Horizontal Navigation Bar : https://www.w3schools.com/css/css_navbar_horizontal.asp
+ Practice with Flexbox Froggy : https://flexboxfroggy.com/
