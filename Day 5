@@ -1,0 +1,51 @@
+The DOM and Events 
+
+DOM = Document Object Model 
+      : an interface for interacting with HTML documents
+      : basic javascript commands to create, modify, style, and delete elements in the DOM
+
+//Adding functionality to website using Javascript 
+//Event Handlers Overview 
+//Registerimg an onclick event to button 
+//DOM methods to modify attributes and styles of HTML elements, and define a callback function
+
+Topics : 
+a. DOM
+b. Selectors
+c. Manipulating the DOM 
+d. Event Listeners 
+
+
+\\Nodes
+-each entry is called a node in the tree
+-root node : top node in the tree
+-parent node : node which has another node inside it
+-child node : node directly inside another node 
+
+\\DOM Manipulation 
+ - javascript allows us to add interactivity to our websites
+ -allows our websited to respond to user input 
+ -allows to update HTML tags 
+ -allows to change aspects of CSS of page
+ -allows to collect information the user has added to the page 
+ -allows to make the webpage interactive
+ 
+ cheyne t rollins
+ K kizakavich 
+\\Selectors 
+      to select element by tag name 
+            : document.querySelector('h1');
+      
+      to select element by class name 
+            : document.querySelector('.about');
+            
+      to select element by ID
+            : document.querySelector('#list-item');
+            
+      to select element by id 
+            : document.getElementById('list-item');
+            
+      to select elements by tag name 
+            : document.getElementsByTagName('h1');
+            
+       
